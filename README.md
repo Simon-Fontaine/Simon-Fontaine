@@ -5,12 +5,11 @@
 <div align="left">
 <p>Here you can find all my open source project and also a good amount of random stuff</p>
 <ul>
-<li>🔭 I’m currently working on many fun projects</li>
-<li>🌱 I’m currently learning C and JavaScript</li>
-<li>⚡ Fun fact: I ❤️ playing Overwatch (~4k2 elo)</li>
+<li>🌱 I’m currently learning C and Python</li>
+<li>⚡ Fun fact: I ❤️ playing Overwatch (~4k3 elo)</li>
 </ul>
 
-<h3 align="left">🪄 Here are some stats on my language preference</h3>
+<h3 align="left">🪄 Here are some stats</h3>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Fontaine&layout=compact&theme=dark"
