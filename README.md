@@ -4,10 +4,6 @@
 
 <div align="left">
 <p>Here you can find all my open source project and also a good amount of random stuff</p>
-<ul>
-<li>🌱 I’m currently learning C and Python</li>
-<li>⚡ Fun fact: I ❤️ playing Overwatch (~4k3 elo)</li>
-</ul>
 
 <h3 align="left">🪄 Here are some stats</h3>
 <picture>
